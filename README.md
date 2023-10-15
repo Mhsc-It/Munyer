@@ -1,2 +1,2 @@
 # Munyer
-Société Holding Infrastructure Technologique SAS 2023
+Société Immensive Technologique Holding SAS 2023
