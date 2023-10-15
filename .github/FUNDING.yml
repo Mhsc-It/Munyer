@@ -1,0 +1,13 @@
+# Voici les plates-formes de financement prises en charge
+
+github: # Remplacez par jusqu'à 4 noms d'utilisateur GitHub activés pour les Sponsors, par exemple, [utilisateur1, utilisateur2]
+patreon: # Remplacez par un seul nom d'utilisateur Patreon
+open_collective: # Remplacez par un seul nom d'utilisateur Open Collective
+ko_fi: # Remplacez par un seul nom d'utilisateur Ko-fi
+tidelift: # Remplacez par un seul nom de plate-forme/nom de package Tidelift, par exemple, npm/babel
+community_bridge: # Remplacez par un seul nom de projet Community Bridge, par exemple, cloud-foundry
+liberapay: # Remplacez par un seul nom d'utilisateur Liberapay
+issuehunt: # Remplacez par un seul nom d'utilisateur IssueHunt
+otechie: # Remplacez par un seul nom d'utilisateur Otechie
+lfx_crowdfunding: # Remplacez par un seul nom de projet LFX Crowdfunding, par exemple, cloud-foundry
+custom: # Remplacez par jusqu'à 4 URL de financement personnalisées, par exemple, ['lien1', 'lien2']
