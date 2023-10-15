@@ -1,0 +1,28 @@
+{
+  "name": "munyer",
+  "version": "1.0.0",
+  "description": "Munyer",
+  "scripts": {
+  "start": "node src/server/server.js",
+  "start-web": "wvc",
+  "start-desktop": "dbc",
+  "start-mobile": "mbc",
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mhsc-It/Munyer.git"
+  },
+  "author": "Dylan Munyer",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Mhsc-It/Munyer/issues"
+  },
+  "homepage": "https://github.com/Mhsc-It/Munyer#readme",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "electron": "^27.0.0",
+    "express": "^4.18.2",
+    "pg": "^8.11.3"
+  }
+}

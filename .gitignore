@@ -1,0 +1,9 @@
+# Ignore les fichiers exécutables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore les fichiers générés par les gestionnaires de package
+node_modules/
+package-lock.json
